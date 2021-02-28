@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/prostocra/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/prostocra/static/js/main.e8c827cb.chunk.js",
+    "main.js.map": "/prostocra/static/js/main.e8c827cb.chunk.js.map",
+    "runtime-main.js": "/prostocra/static/js/runtime-main.e577d007.js",
+    "runtime-main.js.map": "/prostocra/static/js/runtime-main.e577d007.js.map",
+    "static/js/2.1177b71a.chunk.js": "/prostocra/static/js/2.1177b71a.chunk.js",
+    "static/js/2.1177b71a.chunk.js.map": "/prostocra/static/js/2.1177b71a.chunk.js.map",
+    "static/js/3.5ddbcb1b.chunk.js": "/prostocra/static/js/3.5ddbcb1b.chunk.js",
+    "static/js/3.5ddbcb1b.chunk.js.map": "/prostocra/static/js/3.5ddbcb1b.chunk.js.map",
+    "index.html": "/prostocra/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/prostocra/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1177b71a.chunk.js.LICENSE.txt": "/prostocra/static/js/2.1177b71a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/prostocra/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e577d007.js",
+    "static/js/2.1177b71a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e8c827cb.chunk.js"
+  ]
+}
